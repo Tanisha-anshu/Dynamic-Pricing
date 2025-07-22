@@ -3,7 +3,7 @@ This project focuses on building a dynamic pricing strategy for an e-commerce pl
 # How to Run the Code
   -Place the sales CSV file as data.csv in the project directory.
   -Run the Python script:
-          python dynamic_pricing_analysis.py
+          python dynamic_pricing_analysis.ipynb
 
   The script will:
 
